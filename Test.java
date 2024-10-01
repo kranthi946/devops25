@@ -1,9 +1,7 @@
-public class Test{
+ public class Test{
 
 public static void main(String args[])
 
-
-{
-
-PRINT
-}
+kranthi
+print new statement }
+new version
