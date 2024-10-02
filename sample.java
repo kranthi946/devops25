@@ -1,5 +1,6 @@
-class sample{
 
+class sample{
+krantrhi
 
 
 {
